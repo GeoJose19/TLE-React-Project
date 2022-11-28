@@ -1,0 +1,9 @@
+{
+    "products":[
+        {id:1,productName:"iPhone",price:88000,quantity:0},
+        {id:2,productName:"Sony IMX 680",price:69000,quantity:0},
+        {id:3,productName:"Samsung QLED TV",price:100000,quantity:0},
+        {id:4,productName:"XBox Series X",price:55000,quantity:0},
+        {id:5,productName:"PS5",price:60000,quantity:0},
+    ]
+}

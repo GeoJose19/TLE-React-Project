@@ -1,0 +1,11 @@
+.hightlight{
+    background-color: aqua;
+}
+
+.navbar-style{
+    background-color: rgb(210, 127, 3) !important;
+} 
+
+.hand-icon{
+    cursor: pointer;
+}
